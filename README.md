@@ -17,3 +17,26 @@ My name is Emerson Mistico, and I am a Communication graduate with specializatio
 ⚡ Fun fact: I am a cosplayer of Darth Vader. I have been working in communication and internet since 1998, actively participating in planning, creating, and maintaining pages and portals for various sectors, especially in the e-government segment. I also have experience with web development, including ASP, PHP, JavaScript, SQL, and CSS. 
 
 May the force be with you!
+
+
+### Italian version:
+
+Salve! 👋
+
+Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni in Marketing e Vendite (MBA), Gestione della Comunicazione sui Media Digitali, Insegnamento Superiore e Gestione dei Progetti e delle Metodologie Agili. Attualmente sto frequentando un corso di sviluppo di videogiochi digitali, dove sto imparando lo sviluppo con Unity con C#. Inoltre, sono professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto, dove insegno nei settori della comunicazione, del marketing digitale e del commercio elettronico.
+
+🔭 Attualmente lavoro come professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto.
+
+🌱 Attualmente sto imparando Unity con C# per lo sviluppo di videogiochi digitali.
+
+👯 Cerco collaborazioni in progetti che coinvolgono lo sviluppo di videogiochi digitali, dove posso sviluppare le mie conoscenze in questo campo.
+
+💬 Chiedetemi di comunicazione e marketing digitale.
+
+📫 Come contattarmi: Per maggiori informazioni, visitate il mio sito web personale all'indirizzo www.emersonmistico.com.br o contattatemi tramite messaggio diretto o LinkedIn all'indirizzo https://www.linkedin.com/in/emersonmistico/.
+
+😄 Pronomi: lui/lui.
+
+⚡ Curiosità: sono un cosplayer di Darth Vader. Lavoro nel settore della comunicazione e di internet dal 1998, partecipando attivamente alla pianificazione, alla creazione e alla manutenzione di pagine e portali per vari settori, in particolare nel segmento della e-government. Ho anche esperienza nello sviluppo web, inclusi ASP, PHP, JavaScript, SQL e CSS.
+
+May the force be with you!
