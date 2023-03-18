@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Emerson Mistico, and I am a Communication graduate with specializations in Marketing and Sales (MBA), Digital Media Communication Management, Higher Education Teaching, and Project Management and Agile Methodologies. Currently, I am pursuing a course in Digital Game Development, where I am learning Unity development with C#. Additionally, I am a professor and coordinator of post-graduate courses at Senac in São José do Rio Preto, where I teach in the fields of communication, digital marketing, and e-commerce.
+My name is Emerson Mistico, and I am a Communication graduate with specializations in Marketing and Sales (MBA), Digital Media Communication Management, Higher Education Teaching, and Project Management and Agile Methodologies. Currently, I am pursuing a course in Digital Game Development, where I am learning Unity development with C#. Additionally, I am a professor and coordinator of post-graduate courses at Senac in São José do Rio Preto (SP - Brazil), where I teach in the fields of communication, digital marketing, and e-commerce.
 
 🔭 I'm currently working as a professor and coordinator of post-graduate courses at Senac in São José do Rio Preto.
 
@@ -23,11 +23,11 @@ May the force be with you!
 
 Salve! 👋
 
-Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni in Marketing e Vendite (MBA), Gestione della Comunicazione sui Media Digitali, Insegnamento Superiore e Gestione dei Progetti e delle Metodologie Agili. Attualmente sto frequentando un corso di sviluppo di videogiochi digitali, dove sto imparando lo sviluppo con Unity con C#. Inoltre, sono professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto, dove insegno nei settori della comunicazione, del marketing digitale e del commercio elettronico.
+Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni in Marketing (MBA), Gestione della Comunicazione sui Media Digitali, Insegnamento Superiore e Gestione dei Progetti e delle Metodologie Agili. Attualmente sto frequentando un corso di sviluppo di videogiochi, dove sto imparando lo sviluppo con Unity con C#. Inoltre, sono professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto (SP - Brasile), dove insegno nei settori della comunicazione, del marketing digitale e del commercio elettronico.
 
 🔭 Attualmente lavoro come professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto.
 
-🌱 Attualmente sto imparando Unity con C# per lo sviluppo di videogiochi digitali.
+🌱 Attualmente sto imparando Unity con C# per lo sviluppo di videogiochi.
 
 👯 Cerco collaborazioni in progetti che coinvolgono lo sviluppo di videogiochi digitali, dove posso sviluppare le mie conoscenze in questo campo.
 
