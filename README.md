@@ -16,6 +16,10 @@ My name is Emerson Mistico, and I am a Communication graduate with specializatio
 
 ⚡ Fun fact: I am a cosplayer of Darth Vader. I have been working in communication and internet since 1998, actively participating in planning, creating, and maintaining pages and portals for various sectors, especially in the e-government segment. I also have experience with web development, including ASP, PHP, JavaScript, SQL, and CSS. 
 
+### My Projects
+
+- A classic Pong game developed using Unity with C#. [Repository Clone Pong](https://github.com/Emerson-Mistico/clone-pong)
+
 May the force be with you!
 
 
@@ -38,5 +42,8 @@ Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni i
 😄 Pronomi: lui/lui.
 
 ⚡ Curiosità: sono un cosplayer di Darth Vader. Lavoro nel settore della comunicazione e di internet dal 1998, partecipando attivamente alla pianificazione, alla creazione e alla manutenzione di pagine e portali per vari settori, in particolare nel segmento della e-government. Ho anche esperienza nello sviluppo web, inclusi ASP, PHP, JavaScript, SQL e CSS.
+
+### Miei progetti
+- Clone Pong Game: Un gioco classico di Pong sviluppato con Unity e C#. [Repository del Clone Pong](https://github.com/Emerson-Mistico/clone-pong).
 
 May the force be with you!
