@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-My name is Emerson Mistico, and I am a Communication graduate with specializations in Marketing and Sales (MBA), Digital Media Communication Management, Higher Education Teaching, and Project Management and Agile Methodologies. Currently, I am pursuing a course in Digital Game Development, where I am learning Unity development with C#. Additionally, I am a professor and coordinator of post-graduate courses at Senac in São José do Rio Preto (SP - Brazil), where I teach in the fields of communication, digital marketing, and e-commerce.
+My name is Emerson Mistico, and I am a Communication graduate with specializations in "Marketing and Sales (M.B.A.)", "Digital Media Communication Management", "Higher Education Teaching", "Project Management and Agile Methodologies" and "Technologies Applied to Education". Currently, I am pursuing a course in Digital Game Development, where I am learning Unity development with C#. Additionally, I am a professor and I teach in the fields of communication, digital marketing, e-commerce and technology. I have been working in communication and internet since 1998, actively participating in planning, creating, and maintaining pages and portals for various sectors, especially in the e-government segment. I also have experience with web development, including ASP, PHP, JavaScript, SQL, and CSS.
 
-🔭 I'm currently working as a professor and coordinator of post-graduate courses at Senac in São José do Rio Preto.
+🔭 Currently, I work as a professor in undergraduate and postgraduate courses (both in-person and online) for educational institutions in São José do Rio Preto-SP and São Paulo-SP.
 
 🌱 I'm currently learning Unity with C# for Digital Game Development.
 
@@ -14,7 +14,7 @@ My name is Emerson Mistico, and I am a Communication graduate with specializatio
 
 😄 Pronouns: he/him.
 
-⚡ Fun fact: I am a cosplayer of Darth Vader. I have been working in communication and internet since 1998, actively participating in planning, creating, and maintaining pages and portals for various sectors, especially in the e-government segment. I also have experience with web development, including ASP, PHP, JavaScript, SQL, and CSS. 
+⚡ Fun fact: I am a cosplayer of Darth Vader. 
 
 ### My Projects
 
@@ -27,9 +27,9 @@ May the force be with you!
 
 Salve! 👋
 
-Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni in Marketing (MBA), Gestione della Comunicazione sui Media Digitali, Insegnamento Superiore e Gestione dei Progetti e delle Metodologie Agili. Attualmente sto frequentando un corso di sviluppo di videogiochi, dove sto imparando lo sviluppo con Unity con C#. Inoltre, sono professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto (SP - Brasile), dove insegno nei settori della comunicazione, del marketing digitale e del commercio elettronico.
+Mi chiamo Emerson Mistico, e sono laureato in Comunicazione con specializzazioni in "Marketing e Vendite (M.B.A.)", "Gestione della Comunicazione nei Media Digitali", "Didattica dell'Istruzione Superiore", "Gestione dei Progetti e Metodologie Agile" e "Tecnologie Applicate all'Educazione". Attualmente, sto seguendo un corso in Sviluppo di Giochi Digitali, dove sto imparando lo sviluppo con Unity usando C#. Inoltre, sono un professore e insegno nei campi della comunicazione, del marketing digitale, dell'e-commerce e della tecnologia. Lavoro nel settore della comunicazione e di internet dal 1998, partecipando attivamente alla pianificazione, alla creazione e alla manutenzione di pagine e portali per vari settori, in particolare nel segmento della e-government. Ho anche esperienza nello sviluppo web, inclusi ASP, PHP, JavaScript, SQL e CSS
 
-🔭 Attualmente lavoro come professore e coordinatore dei corsi post-laurea presso il Senac a São José do Rio Preto.
+🔭 Attualmente lavoro come professore in corsi di laurea e post-laurea (sia in presenza che online) per istituti di istruzione a São José do Rio Preto-SP e São Paulo-SP.
 
 🌱 Attualmente sto imparando Unity con C# per lo sviluppo di videogiochi.
 
@@ -41,7 +41,7 @@ Mi chiamo Emerson Mistico, sono laureato in Comunicazione con specializzazioni i
 
 😄 Pronomi: lui/lui.
 
-⚡ Curiosità: sono un cosplayer di Darth Vader. Lavoro nel settore della comunicazione e di internet dal 1998, partecipando attivamente alla pianificazione, alla creazione e alla manutenzione di pagine e portali per vari settori, in particolare nel segmento della e-government. Ho anche esperienza nello sviluppo web, inclusi ASP, PHP, JavaScript, SQL e CSS.
+⚡ Curiosità: sono un cosplayer di Darth Vader.
 
 ### Miei progetti
 - Clone Pong Game: Un gioco classico di Pong sviluppato con Unity e C#. [Repository del Clone Pong](https://github.com/Emerson-Mistico/clone-pong).
