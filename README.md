@@ -18,6 +18,7 @@ My name is Emerson Mistico, and I am a Communication graduate with specializatio
 
 ### My Projects
 
+- A simple example of a platform game using Unity and C#. [Repository del Platform](https://github.com/Emerson-Mistico/platform-game).
 - A classic Pong game developed using Unity with C#. [Repository Clone Pong](https://github.com/Emerson-Mistico/clone-pong)
 
 May the force be with you!
@@ -44,6 +45,8 @@ Mi chiamo Emerson Mistico, e sono laureato in Comunicazione con specializzazioni
 ⚡ Curiosità: sono un cosplayer di Darth Vader.
 
 ### Miei progetti
+
+- Un semplice esempio di gioco di piattaforma che utilizza Unity e C#. [Repository del Platform](https://github.com/Emerson-Mistico/platform-game). 
 - Clone Pong Game: Un gioco classico di Pong sviluppato con Unity e C#. [Repository del Clone Pong](https://github.com/Emerson-Mistico/clone-pong).
 
 May the force be with you!
